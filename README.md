@@ -1,2 +1,0 @@
-# ODIN
-odin project
